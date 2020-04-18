@@ -1,0 +1,6 @@
+the data after tokenizing words can be found in the following link.
+
+the files is in "parquet" format.
+
+https://drive.google.com/file/d/14aC-wSaJw0zqV90qGJKWNOTtXUGsVYFe/view?usp=sharing
+https://drive.google.com/file/d/1q9KnPfk5gASf0xP_3lKYHThNKj7sq40p/view?usp=sharing
